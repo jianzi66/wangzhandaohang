@@ -45,3 +45,14 @@ https://www.ozabc.com/it/503511.html
 BT种子下载神器：不仅下载速度快，还支持自定义反吸血功能。
 https://www.qbittorrent.org/
 
+BC Uninstaller-支持静默卸载，批量卸载
+https://www.bcuninstaller.com/
+
+Powertoys-微软官方出品的多功能工具包
+https://github.com/microsoft/PowerToys
+
+everything-目前Windows 系统上最强的资源搜索神器，真正可以做到一秒搜索
+https://www.voidtools.com/zh-cn/
+
+Brave浏览器-Brave 浏览器是专为隐私和无广告浏览设计
+https://brave.com/
