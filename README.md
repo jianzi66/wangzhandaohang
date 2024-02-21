@@ -56,3 +56,15 @@ https://www.voidtools.com/zh-cn/
 
 Brave浏览器-Brave 浏览器是专为隐私和无广告浏览设计
 https://brave.com/
+
+压缩软件-极高压缩比的免费开源软件
+https://www.7-zip.org/
+
+MyComputerManager-管理此电脑，删除流氓“快捷方式”。
+https://github.com/1357310795/MyComputerManager
+
+KeyFreeze -锁定您的键盘和鼠标，而不“锁定”屏幕。
+https://keyfreeze.com/
+
+完全免费的PDF-热门功能有pdf转word，pdf转png，word转pdf等,且无需注册。
+https://www.pdfgear.com/zh/
