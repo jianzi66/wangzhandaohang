@@ -68,3 +68,15 @@ https://keyfreeze.com/
 
 完全免费的PDF-热门功能有pdf转word，pdf转png，word转pdf等,且无需注册。
 https://www.pdfgear.com/zh/
+
+Windows/Office 的 KMS 一键生成脚本 
+  https://kms.cx/
+  
+Audiohub是一个提供免版税音乐的网站 
+  https://audiohub.com/
+  
+免费AI图片、视频制作网站-vispunk
+  https://vispunk.com/image
+  
+免费SSL证书一键生成-acmesh-official/acme.sh
+  https://github.com/acmesh-official/acme.sh
