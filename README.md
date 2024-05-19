@@ -80,3 +80,15 @@ Audiohub是一个提供免版税音乐的网站
   
 免费SSL证书一键生成-acmesh-official/acme.sh
   https://github.com/acmesh-official/acme.sh
+
+  NVIDIA NGC 免费生成图片
+https://build.nvidia.com/stabilityai/sdxl-turbo
+
+免费实用的文档 、图片、 视频转换网站
+https://tinywow.com/
+
+全球护照照片参数和自动剪辑
+https://cn.idphoto4you.com/
+
+AlternativeTo 收费软件替代品网站
+https://alternativeto.net/
