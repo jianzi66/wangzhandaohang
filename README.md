@@ -87,8 +87,44 @@ https://build.nvidia.com/stabilityai/sdxl-turbo
 免费实用的文档 、图片、 视频转换网站
 https://tinywow.com/
 
+
 全球护照照片参数和自动剪辑
 https://cn.idphoto4you.com/
 
 AlternativeTo 收费软件替代品网站
 https://alternativeto.net/
+
+240912更新浏览器插件
+图片放大预览插件下载：
+像第一个是在Chrome浏览器上安装的：https://chromewebstore.google.com/detail/%E6%B5%AE%E5%9B%BE%E7%A7%80/mgpdnhlllbpncjpgokgfogidhoegebod，
+然后第二个是Edge浏览器：https://microsoftedge.microsoft.com/addons/detail/%E6%B5%AE%E5%9B%BE%E7%A7%80/afdelcfalkgcfelngdclbaijgeaklbjk。
+
+内容复制【白嫖神器】：
+分别是Chrome浏览器：
+https://chromewebstore.google.com/detail/simple-allow-copy/aefehdhdciieocakfobpaaolhipkcpgc
+和Edge浏览器
+https://microsoftedge.microsoft.com/addons/detail/simple-allow-copy/kkemgiffjdndikokhpoecoloebgeibde
+
+Dark Reader 强制暗黑模式：
+Chrome：【点击下载】
+https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh
+Edge：【点击下载】
+https://microsoftedge.microsoft.com/addons/detail/dark-reader/ifoakfbpdcdoeenechcleahebpibofpc
+
+批量图片下载器 - Imageye：
+Chrome： 【点击下载】
+https://chromewebstore.google.com/detail/%E6%89%B9%E9%87%8F%E5%9B%BE%E7%89%87%E4%B8%8B%E8%BD%BD%E5%99%A8-imageye/agionbommeaifngbhincahgmoflcikhm
+Edge： 【点击下载】
+https://chromewebstore.google.com/detail/%E6%89%B9%E9%87%8F%E5%9B%BE%E7%89%87%E4%B8%8B%E8%BD%BD%E5%99%A8-imageye/agionbommeaifngbhincahgmoflcikhm
+
+SingleFile ：
+Chrome 【点击下载】
+https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle
+Edge 【点击下载】
+https://microsoftedge.microsoft.com/addons/detail/singlefile/efnbkdcfmcmnhlkaijjjmhjjgladedno
+
+AHA Music 听歌识曲：
+Chrome【点击下载】
+https://chromewebstore.google.com/detail/aha-music-%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E7%9A%84%E9%9F%B3%E4%B9%90%E9%9B%B7%E8%BE%BE/dpacanjfikmhoddligfbehkpomnbgblf
+Edge 【点击下载】
+https://microsoftedge.microsoft.com/addons/detail/aha-music-%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E7%9A%84%E9%9F%B3%E4%B9%90%E9%9B%B7%E8%BE%BE/ejfccgmelcclnoadalcepdmnpgcnglfc
