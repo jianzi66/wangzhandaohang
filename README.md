@@ -128,3 +128,28 @@ Chrome【点击下载】
 https://chromewebstore.google.com/detail/aha-music-%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E7%9A%84%E9%9F%B3%E4%B9%90%E9%9B%B7%E8%BE%BE/dpacanjfikmhoddligfbehkpomnbgblf
 Edge 【点击下载】
 https://microsoftedge.microsoft.com/addons/detail/aha-music-%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E7%9A%84%E9%9F%B3%E4%B9%90%E9%9B%B7%E8%BE%BE/ejfccgmelcclnoadalcepdmnpgcnglfc
+
+240927：：：
+1、Windows 12 网页版： 
+Github:
+https://github.com/tjy-gitnub/win12
+网盘：
+https://pan.tuio.cc/s/jeAHk
+2、StableStudio人手一个 Midjourney：
+Github 开源项目：【链接直达】
+https://github.com/Stability-AI/StableStudio
+网盘打包：【点击下载】
+https://pan.tuio.cc/s/9GXcM
+3、AI 图像编辑工具：
+Github 开源项目 【点击前往】
+https://github.com/geekyutao/Inpaint-Anything
+网盘打包 【点击下载】
+https://pan.tuio.cc/s/4Akfg
+4、打造内部知识库的私人专属 GPT：
+Github 开源项目【点击前往】
+https://github.com/Mintplex-Labs/anything-llm/tree/master
+网盘打包 【点击下载】
+https://pan.tuio.cc/s/EKmuj
+5、Animate Anyone 可控的角色视频生成：
+Github 开源项目 【点击前往 】
+https://humanaigc.github.io/animate-anyone/
