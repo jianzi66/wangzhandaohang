@@ -153,3 +153,16 @@ https://pan.tuio.cc/s/EKmuj
 5、Animate Anyone 可控的角色视频生成：
 Github 开源项目 【点击前往 】
 https://humanaigc.github.io/animate-anyone/
+6、clone-voice，一个带 Web 界面简单易用的声音克隆工具
+https://github.com/jianchang512/clone-voice
+7、Open Chat Video Editor 一款短视频生成和编辑工具
+https://github.com/SCUTlihaoyu/open-chat-video-editor
+8、Penpot 首个开源的 UI 设计与原型制作平台！
+https://github.com/penpot/penpot
+9、EasySpider 可视化爬虫软件
+https://github.com/NaiboWang/EasySpider/releases/tag/v0.6.2
+10、OpenAI Translator 基于 ChatGPT API 的划词翻译 Chrome 插件
+https://github.com/openai-translator/openai-translator/releases/tag/v0.4.32
+11、WiFiAnalyzer 一款功能强大的Wifi网络优化工具
+https://vremsoftwaredevelopment.github.io/WiFiAnalyzer/
+
