@@ -166,3 +166,10 @@ https://github.com/openai-translator/openai-translator/releases/tag/v0.4.32
 11、WiFiAnalyzer 一款功能强大的Wifi网络优化工具
 https://vremsoftwaredevelopment.github.io/WiFiAnalyzer/
 
+241028
+1、att Toolkit 是一款能白嫖加速的软件
+https://github.com/BeyondDimension/SteamTools
+2、Umi-OCR 支持离线使用的批量图文识别软件
+https://github.com/hiroi-sora/Umi-OCR
+3、NDM：可以媲美IDM的超线程下载器
+https://www.neatdownloadmanager.com/index.php/en/
