@@ -173,3 +173,19 @@ https://github.com/BeyondDimension/SteamTools
 https://github.com/hiroi-sora/Umi-OCR
 3、NDM：可以媲美IDM的超线程下载器
 https://www.neatdownloadmanager.com/index.php/en/
+
+
+241106-4个宝藏级免费实用开源软件241022(2)，包括硬盘管理、微软官方系统组件、视频压缩神器、免费PDF工具箱！！
+4、专业的硬盘管理：DiskGenius，小白也能轻松使用！
+DiskGenius下载：【点击前往】
+https://pan.tuio.cc/s/eLrT4
+5、微软官方开源win系统小组件：Powertoys
+Github开源项目：【点击访问】
+https://github.com/microsoft/PowerToys
+6、HandBrake 目前最强的视频压缩神器！
+官方下载：【点击前往】
+https://handbrake.fr/
+7、完全免费的 PDF 工具箱：PDF24，免费开源的神器！
+官方下载：【点击前往】
+https://tools.pdf24.org/zh/
+
