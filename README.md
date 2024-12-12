@@ -189,3 +189,34 @@ https://handbrake.fr/
 官方下载：【点击前往】
 https://tools.pdf24.org/zh/
 
+5个宝藏级免费实用开源软件241203（1），包括免费idm下载器平替、跨平台的 AirDrop平替、硬盘诊断和修复工具、电脑屏幕局部放大、电脑数据恢复！！
+1、 IDM下载器的最强免费替代AB-Download
+下载方式：
+1、Github下载 【点击前往】
+https://github.com/amir1376/ab-download-manager
+2、备用 下载 【点击前往】
+https://pan.tuio.cc/s/gq7TR
+
+2、AirDrop平替-跨平台文件传输工具 LANDrop
+1、官方下载 【点击前往 】
+https://landrop.app/
+2、Github 开源 【点击前往】
+https://github.com/LANDrop/LANDrop
+
+3、硬盘诊断和修复工具 Victoria 
+工具下载，下面链接都是官网地址：
+Victoria 5.23：【点击下载】
+https://hdd.by/Victoria/Victoria523.zip
+Victoria 5.37：【点击下载】
+https://hdd.by/Victoria/Victoria537.zip
+
+4、电脑屏幕局部放大缩小工具 Glassbrick
+下载方式：【点击前往】
+http://pan.tuio.cc/s/XgzC8
+
+5、电脑数据恢复软件-Windows File Recovery
+下载安装使用：
+1、Windows File Recovery 【点击前往】
+https://apps.microsoft.com/detail/9n26s50ln705?rtc=1&hl=zh-cn&gl=JP
+2、WinfrGUI-APP 【点击前往】
+https://apps.microsoft.com/detail/9mw90r826ht0?hl=zh-cn&gl=JP
