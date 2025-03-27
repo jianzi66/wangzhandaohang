@@ -220,3 +220,17 @@ http://pan.tuio.cc/s/XgzC8
 https://apps.microsoft.com/detail/9n26s50ln705?rtc=1&hl=zh-cn&gl=JP
 2、WinfrGUI-APP 【点击前往】
 https://apps.microsoft.com/detail/9mw90r826ht0?hl=zh-cn&gl=JP
+
+
+U盘便携软件百宝箱-第24期250226！PortableApps，你的移动软件神器！
+✨随时随地、软件在任何电脑上即插即用！
+1、PortableApps！ 它可以把你的U盘变成一个移动软件箱，里面装满你常用的软件，
+比如浏览器、办公软件、修图软件等等，而且都是已经打包好的便携版，即插即用，超级方便！
+传送门：
+官网：PortableApps.com
+https://portableapps.com/
+2、心仪的软件没有便携版？ 今天给大家分享一款超厉害的软件打包神器——enigmaprotector！
+它可以把安装版的软件“虚拟化”成便携版，无需安装就能直接运行！
+传送门：
+官网：enigmaprotector
+https://enigmaprotector.com/cn/aboutvb.html
